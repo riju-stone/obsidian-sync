@@ -1,0 +1,11 @@
+{
+    "id": "obsidian-sync",
+    "name": "Obsidian Sync",
+    "description": "Sync obsidian vaults across all your devices",
+    "version": "0.0.1",
+    "author": "Arighna Chakraborty",
+    "authorUrl": "https://arighna.vercel.app",
+    "minAppVersion": "1.4.16",
+    "isDesktopOnly": false,
+    "js": "main.js"
+  }
